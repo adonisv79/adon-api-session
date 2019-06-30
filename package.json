@@ -1,0 +1,23 @@
+{
+  "name": "adon-api-session",
+  "version": "1.0.0",
+  "description": "API Session Manager template for most of your Session controlling needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonisv79/adon-api-session.git"
+  },
+  "keywords": [
+    "session",
+    "api"
+  ],
+  "author": "Adonis Lee Villamor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonisv79/adon-api-session/issues"
+  },
+  "homepage": "https://github.com/adonisv79/adon-api-session#readme"
+}
